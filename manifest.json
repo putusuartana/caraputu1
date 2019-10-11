@@ -1,4 +1,4 @@
-'https://cdn.jsdelivr.net/gh/KompiAjaib/js@master/manifest.json' {
+{
   "name": "CaraPUTU",
   "short_name": "CaraPUTU",
   "start_url": "https://www.caraputu.com/",
@@ -35,4 +35,4 @@
     "sizes": "512x512",
     "type": "image/png"
   }]
-} 
+}
